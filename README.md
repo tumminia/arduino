@@ -49,13 +49,13 @@ Il progetto ha dimostrato come sia possibile simulare il funzionamento di un sis
 
 L’approccio adottato, che sfrutta il linguaggio di programmazione orientato agli oggetti C++ attraverso il framework Arduino IDE, ha consentito di implementare diverse funzioni interattive e di monitorare il corretto funzionamento dei servo motori elettrici.
 
-![alt text](Allegati/UML setup.png)
+![alt text](Allegati/UML_setup.png)
 
 Fig. 5: Diagramma UML della funzione setup
 
 Il progetto ha offerto un’importante opportunità di apprendimento riguardo la gestione di sistemi embedded e la programmazione di dispositivi interattivi, fornendo una base per continuare verso un percorso di miglioramento nel campo della robotica e dell’automazione
 
-![alt text](Allegati/UML loop.png)
+![alt text](Allegati/UML_loop.png)
 
 Fig. 6: Diagramma UML della funzione loop
 
