@@ -18,7 +18,7 @@ Fig.1: kit Arduino.
 ## Obiettivo
 Simulare il funzionamento di un sistema Embedded di un braccio robotico, utilizzando un kit Arduino.
 
-![alt text](Allegati/kit_Arduino_con_braccio_robotico.png)
+![alt text](Allegati/kitArduinoConBraccioRobotico.png)
 
 Fig. 2: kit Arduino con braccio robotico.
 
