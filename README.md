@@ -11,7 +11,7 @@ Il progetto utilizza la tecnologia Arduino con le librerie scritte con il lingua
 6. Una batteria collegata per kit Arduino per alimentarlo;
 7. Una periferica per collegare il kit Arduino con dispositivi esterni, utilizzata per caricare un programma e/o per caricare la batteria.
 
-![alt text](Allegati/Kit_Arduino.png)
+![alt text](Allegati/Kit Arduino.png)
 
 Fig.1: kit Arduino.
 
