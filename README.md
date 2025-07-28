@@ -15,7 +15,7 @@ Il progetto utilizza la tecnologia Arduino con le librerie scritte con il lingua
 
 Fig.1: kit Arduino.
 
-##Obiettivo
+## Obiettivo
 Simulare il funzionamento di un sistema Embedded di un braccio robotico, utilizzando un kit Arduino.
 
 ![alt text](Allegati/kit_Arduino_con_braccio_robotico.png)
