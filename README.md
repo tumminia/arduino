@@ -58,3 +58,6 @@ Il progetto ha offerto un’importante opportunità di apprendimento riguardo la
 ![alt text](Allegati/UML loop.png)
 
 Fig. 6: Diagramma UML della funzione loop
+
+```bash
+git clone https://github.com/tumminia/arduino
