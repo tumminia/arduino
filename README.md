@@ -34,6 +34,7 @@ Il programma All.ino scritto con Arduino IDE con il linguaggio di programmazione
 La funzione setup tramite l’oggetto della classe Controllo esegue controllaStatus, e a sua volta esegue StampaStatus.
 
 ![alt text](Allegati/setup.png)
+
 Fig. 3: Casi d’uso: funzione setup
 
 La funzione loop tramite l’oggetto della classe Controllo esegue:
