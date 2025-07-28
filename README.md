@@ -1,4 +1,4 @@
-#Funzionamento di un kit Arduino di un braccio robotico
+# Funzionamento di un kit Arduino di un braccio robotico
 
 ## Introduzione
 Il progetto utilizza la tecnologia Arduino con le librerie scritte con il linguaggio di programmazione orientato agli oggetti C++, utilizzato per acquisire le basi di funzionamento un sistema Embedded.
