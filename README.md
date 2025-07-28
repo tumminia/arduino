@@ -11,14 +11,14 @@ Il progetto utilizza la tecnologia Arduino con le librerie scritte con il lingua
 6. Una batteria collegata per kit Arduino per alimentarlo;
 7. Una periferica per collegare il kit Arduino con dispositivi esterni, utilizzata per caricare un programma e/o per caricare la batteria.
 
-![alt text](Allegati/Kit Arduino.png)
+![alt text](Allegati/Kit_Arduino.png)
 
 Fig.1: kit Arduino.
 
 ##Obiettivo
 Simulare il funzionamento di un sistema Embedded di un braccio robotico, utilizzando un kit Arduino.
 
-![alt text](Allegati/kit Arduino con braccio robotico.png)
+![alt text](Allegati/kit_Arduino_con_braccio_robotico.png)
 
 Fig. 2: kit Arduino con braccio robotico.
 
